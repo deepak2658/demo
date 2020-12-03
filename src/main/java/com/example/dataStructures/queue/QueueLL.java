@@ -1,5 +1,9 @@
 package com.example.dataStructures.queue;
 
+import java.lang.reflect.Array;
+import java.util.Arrays;
+import java.util.List;
+
 public class QueueLL {
     static LinkedList queueLL = new LinkedList();
 
@@ -21,6 +25,10 @@ public class QueueLL {
         System.out.println(queue.dequeue());
         System.out.println("front "+queue.front());
         System.out.println("rear "+queue.rear());
+        List<Integer> arr = Arrays.asList(1,2,3,4);
+
+        //
+        //
 
     }
 

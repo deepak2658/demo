@@ -7,6 +7,19 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Scanner;
 import java.util.Stack;
+// Java program to demonstrate Polymorphism
+import java.util.*;
+
+
+
+
+
+
+
+
+
+
+
 
 public class stack1 {
     //Java has a built-in API named java.util.Stack.
