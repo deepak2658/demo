@@ -96,16 +96,5 @@ public class LinkedListDeletion {
         }
         return 1+ countNodes(node.next);
     }
-
-
-
-
-
-
-    //method for calculating the no of node in a loop
-    /*
-    * */
-
-
 }
 
