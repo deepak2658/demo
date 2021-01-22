@@ -65,6 +65,7 @@ public class LinkedListSingly {
         newNode.next = head;
         head = newNode;
 
+
     }
     static void addAtPos(int pos,int d){
         Node newNode = new Node(d);
