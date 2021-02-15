@@ -85,4 +85,3 @@ class DeletingLoopinLL {
     }
 }
 
-// This code is contributed by Arnav Kr. Mandal.
