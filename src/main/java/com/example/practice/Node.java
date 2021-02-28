@@ -20,13 +20,19 @@ public class Node {
         ll.forEach(e->{
 //            System.out.println(""+e+1);
         });
-
+        HashMap<Integer,Integer> nss = new HashMap<>();
+        HashSet<Integer> ss = new HashSet<>();
+        ss.
         Object[] arry = ll.toArray();
         Arrays.sort(arry);
-        List<Integer> list=new ArrayList<Integer>();
-        list.add(12);
-        Collections.sort(list);
-        System.out.println(list.get(0));
+        List<String> res = null;
+        List<List<Integer>> list=new ArrayList<List<Integer>>();
+//        list.set()        System.out.println(list.equals(list));
+//        list.add(12);
+//        Collections.sort(list);
+        //System.out.println(list.get(0));
+        int d= 128;
+        System.out.println((int) (Math.log10(128)/Math.log10(2)));
 
         HashMap<Integer,Integer> ss = new HashMap<>();
         ss.put(1,1);
